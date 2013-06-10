@@ -10,6 +10,9 @@ htop
 phpmyadmin
 rbenv
 ruby-build
+rbenv-aliases
+rbenv-bundler
+rbenv-default-gems
 ssh-copy-id
 the_silver_searcher
 tmux
