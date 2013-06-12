@@ -6,6 +6,7 @@ autossh
 byobu
 cmake
 dos2unix
+grep
 htop
 php54
 php54-mcrypt
