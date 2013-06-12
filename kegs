@@ -7,6 +7,8 @@ byobu
 cmake
 dos2unix
 htop
+php54
+php54-mcrypt
 phpmyadmin
 rbenv
 ruby-build

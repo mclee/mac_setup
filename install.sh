@@ -3,6 +3,10 @@
 # install homebrew
 ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 
+# tap the php formulas
+brew tap homebrew/dupes
+brew tap josegonzalez/homebrew-php
+
 # install the formulas
 KEGS=`curl -L https://raw.github.com/mclee/mac_setup/master/kegs`
 for KEG in $KEGS; do
