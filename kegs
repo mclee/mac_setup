@@ -8,6 +8,7 @@ cmake
 dos2unix
 grep
 htop
+lua
 php54
 php54-mcrypt
 phpmyadmin

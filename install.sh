@@ -13,6 +13,8 @@ for KEG in $KEGS; do
 	brew install $KEG
 done
 
+brew install vim --with-ruby --with-python --with-lua
+
 # install dotfiles
 curl -L https://raw.github.com/mclee/dotfiles/master/install.sh | sh
 
