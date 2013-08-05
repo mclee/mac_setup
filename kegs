@@ -10,7 +10,9 @@ cmake
 dos2unix
 grep
 htop
+ios-sim
 lua
+nodejs
 php54
 php54-mcrypt
 phpmyadmin
