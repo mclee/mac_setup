@@ -25,3 +25,4 @@ rbenv-gem-rehash
 ssh-copy-id
 the_silver_searcher
 tmux
+wget

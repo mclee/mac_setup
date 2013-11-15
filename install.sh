@@ -20,3 +20,6 @@ curl -L https://raw.github.com/mclee/dotfiles/master/install.sh | sh
 
 # install vim
 curl -L http://raw.github.com/mclee/vim-vundle/master/install.sh | sh
+
+# install growl replacement
+wget https://github.com/mclee/mac_setup/raw/master/growlnotify.rb -O /usr/local/bin/growlnotify.rb
